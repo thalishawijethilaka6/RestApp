@@ -1,3 +1,6 @@
 [submodule "RestApp-Client"]
 	path = RestApp-Client
 	url = https://github.com/thalishawijethilaka6/RestApp-Client.git
+[submodule "RestApp-Server"]
+	path = RestApp-Server
+	url = https://github.com/thalishawijethilaka6/RestApp-Server.git
