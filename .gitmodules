@@ -1,0 +1,3 @@
+[submodule "RestApp-Client"]
+	path = RestApp-Client
+	url = https://github.com/thalishawijethilaka6/RestApp-Client.git
